@@ -107,6 +107,7 @@ footer>p>strong>a, footer p a {
 
 
 #footer-cntt {
+    position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
