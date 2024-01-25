@@ -12,3 +12,5 @@ Bem-vindo ao projeto "The Discoverer Experience"! Este projeto utiliza tecnologi
 - **Front-end:**
   - **Framework:** Next.js e bootstrap
 
+## Avaliação do projeto
+![]()
