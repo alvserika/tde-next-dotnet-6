@@ -13,4 +13,4 @@ Bem-vindo ao projeto "The Discoverer Experience"! Este projeto utiliza tecnologi
   - **Framework:** Next.js e bootstrap
 
 ## Avaliação do projeto
-![]()
+![](https://raw.githubusercontent.com/erikabusiness/tde-next-dotnet-6/22a8ef02aea55535705d4427cb9ae18b7011059a/frontend/tde/src/assets/nota-modulo-6.png)
